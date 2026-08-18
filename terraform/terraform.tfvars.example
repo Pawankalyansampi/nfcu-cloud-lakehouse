@@ -1,0 +1,7 @@
+aws_region   = "us-east-1"
+project_name = "nfcu-cloud"
+
+# Optional. Leave empty and Terraform will generate a unique bucket name.
+# bucket_name = "nfcu-lake-yourname-2026"
+
+enable_kinesis = true

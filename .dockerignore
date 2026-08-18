@@ -1,0 +1,12 @@
+.venv
+.git
+.github
+__pycache__
+*.pyc
+.env
+terraform
+*.md
+data/lake
+data/stream
+data/models
+data/raw

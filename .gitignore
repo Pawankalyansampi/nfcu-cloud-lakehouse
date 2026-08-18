@@ -1,0 +1,15 @@
+.env
+.venv
+__pycache__/
+*.pyc
+.pytest_cache/
+data/lake/
+data/stream/
+data/models/
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/*.tfstate
+terraform/*.tfstate.backup
+terraform/terraform.tfvars
+terraform/crash.log
+*.zip

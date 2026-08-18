@@ -1,0 +1,7 @@
+name: NFCU Banking Lakehouse
+version: 1.0.0
+profile: nfcu
+models:
+  nfcu:
+    gold:
+      +materialized: table

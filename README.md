@@ -29,7 +29,7 @@ Student default AWS bill for a 2-hour demo: **1 Kinesis shard + S3 + Athena**, u
 
 ---
 
-## How to run (cheap path)
+## How to run 
 
 ### 1. AWS CLI login
 
